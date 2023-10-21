@@ -13,6 +13,10 @@ Before you get started, make sure you have the following prerequisites:
 
 - **Git:** You should have Git installed on your system to clone this repository. You can download it [here](https://git-scm.com/).
 
+## Chats
+<img width="960" alt="image" src="https://github.com/Sarthak-code360/Discord-Bot/assets/74900672/71011ef5-6f0c-4e23-9b00-edda2a6bddcc">
+
+
 ## Installation
 
 To install the bot, follow these steps:
