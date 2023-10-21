@@ -1,0 +1,11 @@
+# Ignore the 'info' file
+info
+
+# Ignore the 'node_modules' directory
+node_modules/
+
+# Ignore the 'package-lock.json' file in the 'node_modules' directory
+node_modules/*.package-lock.json
+
+# Ignore the 'token.json' file
+token.json
