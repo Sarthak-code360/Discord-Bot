@@ -35,3 +35,5 @@ To install the bot, follow these steps:
 
    ```bash
    npm start
+
+# Invite link: https://discord.com/api/oauth2/authorize?client_id=815448258460778496&scope=bot&permissions=1
