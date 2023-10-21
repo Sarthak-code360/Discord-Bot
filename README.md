@@ -2,13 +2,6 @@
 
 Welcome to the Discord Bot Project! This repository contains the source code for a Discord bot that can perform various tasks and commands in your Discord server. This ReadMe file will guide you through setting up and running the bot in your own server.
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -27,4 +20,14 @@ To install the bot, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/discord-bot-project.git
+   git clone https://github.com/Sarthak-code360/Discord-Bot
+
+2. Install the necessary dependencies by running:
+
+   ```bash
+   npm install
+
+3. To run the bot, use the following command:
+
+   ```bash
+   npm start
