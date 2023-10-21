@@ -1,4 +1,4 @@
-# Discord Bot Project ReadMe
+# Discord Bot Project
 
 Welcome to the Discord Bot Project! This repository contains the source code for a Discord bot that can perform various tasks and commands in your Discord server. This ReadMe file will guide you through setting up and running the bot in your own server.
 
